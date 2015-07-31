@@ -1,0 +1,33 @@
+{
+    "songs": [
+        {
+            "name": "Two Dope Boyz (In a Cadillac)",
+            "artist": "Outkast",
+            "album": "ATLiens",
+            "year": 1996,
+            "label": "LaFace"
+        },
+        {
+            "name": "ATLiens",
+            "artist": "Outkast",
+            "album": "ATLiens",
+            "year": 1996,
+            "label": "LaFace"
+        },
+        {
+            "name": "Wheelz of Steel",
+            "artist": "Outkast",
+            "album": "ATLiens",
+            "year": 1996,
+            "label": "LaFace"
+        },
+        {
+            "name": "Elevators (Me & You)",
+            "artist": "Outkast",
+            "album": "ATLiens",
+            "year": 1996,
+            "label": "LaFace"
+        }
+
+    ]
+}

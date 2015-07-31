@@ -1,0 +1,77 @@
+.flex-container {
+  padding: 0;
+  margin: 2.5%;
+  list-style: none;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.flex-container > header { 
+  flex: 1 100%; 
+}
+
+header {
+  margin-bottom: .25px;
+}
+
+nav {
+  border: 2px solid black;
+  background-color: #FFB4B0;
+  flex-grow: 5;
+  margin: 4px;
+  height: 10%;
+}
+
+.sidebar_left {
+  background-color: #4DD7FA;
+  border: 2px solid black;
+  padding: 5px;
+  margin: 4px;
+  height: 75%;
+  float: left;
+}
+
+.right-container {
+  float: right;
+  margin: center;
+  border: 2px solid black;
+  background-color: #FEFAC0;
+  padding: 5px;
+  margin: 4px;
+  height: 75%;
+  flex: 50%;
+ 
+}
+
+#checkbox-container {
+  display: flex;
+}
+
+.checkbox-container-left {
+  float: left;
+}
+
+.checkbox-container-right {
+  float: right;
+}
+
+button {
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 100px;
+  padding: 4px; 
+}
+
+.genre-button {
+  margin: 0 20px 0 20px;
+}
+
+.song-name {
+  margin: center;
+  color:  #785616;
+  padding: 3px;
+}
+
+#theSongList {
+  
+}

@@ -1,0 +1,39 @@
+{
+    "songs": [
+        {
+            "name": "Statesboro Blues",
+            "artist": "Allman Brothers Band",
+            "album": "Eat a Peach",
+            "year": 1972,
+            "label": "Capricorn"
+        },
+        {
+            "name": "One Way Out",
+            "artist": "Allman Brothers Band",
+            "album": "Eat a Peach",
+            "year": 1972,
+            "label": "Capricorn"
+        },
+        {
+            "name": "In Memory of Elizabeth Reed",
+            "artist": "Allman Brothers Band",
+            "album": "Eat a Peach",
+            "year": 1972,
+            "label": "Capricorn"
+        },
+        {
+            "name": "Midnight Rider",
+            "artist": "Allman Brothers Band",
+            "album": "Eat a Peach",
+            "year": 1972,
+            "label": "Capricorn"
+        },
+        {   "name": "Whipping Post",
+            "artist": "Allman Brothers Band",
+            "album": "Eat a Peach",
+            "year": 1972,
+            "label": "Capricorn"
+        }
+
+    ]
+}
